@@ -1,0 +1,4422 @@
+[
+  {
+    "name": "truthful_rr",
+    "study": {
+      "responses": [
+        {
+          "response_id": "r-0",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-1",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-2",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-3",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-4",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-5",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-6",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-7",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-8",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-9",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-10",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-11",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-12",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-13",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-14",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-15",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-16",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-17",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-18",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-19",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-20",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-21",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-22",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-23",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-24",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-25",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-26",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-27",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-28",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-29",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-30",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-31",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-32",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-33",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-34",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-35",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-36",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-37",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-38",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-39",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-40",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-41",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-42",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-43",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-44",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-45",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-46",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-47",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-48",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-49",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-50",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-51",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-52",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-53",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-54",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-55",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-56",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-57",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-58",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-59",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-60",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-61",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-62",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-63",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-64",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-65",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-66",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-67",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-68",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-69",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-70",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-71",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-72",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-73",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-74",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-75",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-76",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-77",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-78",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-79",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-80",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 0,
+          "group": "science",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-81",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 0,
+          "group": "arts",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-82",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-83",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 0,
+          "group": "arts",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-84",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 0,
+          "group": "science",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-85",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-86",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 0,
+          "group": "science",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-87",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 2,
+          "group": "arts",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-88",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 2,
+          "group": "science",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-89",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 0,
+          "group": "arts",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-90",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-91",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 0,
+          "group": "arts",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-92",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-93",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-94",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 2,
+          "group": "science",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-95",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 2,
+          "group": "arts",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-96",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 2,
+          "group": "science",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-97",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 2,
+          "group": "arts",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-98",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 0,
+          "group": "science",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-99",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 0,
+          "group": "arts",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-100",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-101",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-102",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-103",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-104",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 2,
+          "group": "science",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-105",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 3,
+          "group": "arts",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-106",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-107",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-108",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-109",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-110",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-111",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-112",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 2,
+          "group": "science",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-113",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 3,
+          "group": "arts",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-114",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-115",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-116",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 2,
+          "group": "science",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-117",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-118",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-119",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 2,
+          "group": "arts",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-120",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-121",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 2,
+          "group": "arts",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-122",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 0,
+          "group": "science",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-123",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 0,
+          "group": "arts",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-124",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-125",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 2,
+          "group": "arts",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-126",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-127",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 3,
+          "group": "arts",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-128",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-129",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 2,
+          "group": "arts",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-130",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-131",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-132",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-133",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 3,
+          "group": "arts",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-134",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 0,
+          "group": "science",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-135",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 3,
+          "group": "arts",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-136",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-137",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 2,
+          "group": "arts",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-138",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-139",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-140",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 2,
+          "group": "science",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-141",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-142",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 3,
+          "group": "science",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-143",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 2,
+          "group": "arts",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-144",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 2,
+          "group": "science",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-145",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-146",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 2,
+          "group": "science",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-147",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-148",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-149",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 2,
+          "group": "arts",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-150",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 2,
+          "group": "science",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-151",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-152",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-153",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 2,
+          "group": "arts",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-154",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-155",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 2,
+          "group": "arts",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-156",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-157",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-158",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-159",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-160",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-8"
+        },
+        {
+          "response_id": "r-161",
+          "version": "joint-1",
+          "coded_answer": "01",
+          "group": "arts",
+          "class_id": "c-8"
+        },
+        {
+          "response_id": "r-162",
+          "version": "joint-1",
+          "coded_answer": "01",
+          "group": "science",
+          "class_id": "c-8"
+        },
+        {
+          "response_id": "r-163",
+          "version": "joint-1",
+          "coded_answer": "10",
+          "group": "arts",
+          "class_id": "c-8"
+        },
+        {
+          "response_id": "r-164",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-8"
+        },
+        {
+          "response_id": "r-165",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "arts",
+          "class_id": "c-8"
+        },
+        {
+          "response_id": "r-166",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-8"
+        },
+        {
+          "response_id": "r-167",
+          "version": "joint-1",
+          "coded_answer": "10",
+          "group": "arts",
+          "class_id": "c-8"
+        },
+        {
+          "response_id": "r-168",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-8"
+        },
+        {
+          "response_id": "r-169",
+          "version": "joint-1",
+          "coded_answer": "11",
+          "group": "arts",
+          "class_id": "c-8"
+        },
+        {
+          "response_id": "r-170",
+          "version": "joint-1",
+          "coded_answer": "01",
+          "group": "science",
+          "class_id": "c-8"
+        },
+        {
+          "response_id": "r-171",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "arts",
+          "class_id": "c-8"
+        },
+        {
+          "response_id": "r-172",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-8"
+        },
+        {
+          "response_id": "r-173",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "arts",
+          "class_id": "c-8"
+        },
+        {
+          "response_id": "r-174",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-8"
+        },
+        {
+          "response_id": "r-175",
+          "version": "joint-1",
+          "coded_answer": "11",
+          "group": "arts",
+          "class_id": "c-8"
+        },
+        {
+          "response_id": "r-176",
+          "version": "joint-1",
+          "coded_answer": "01",
+          "group": "science",
+          "class_id": "c-8"
+        },
+        {
+          "response_id": "r-177",
+          "version": "joint-1",
+          "coded_answer": "01",
+          "group": "arts",
+          "class_id": "c-8"
+        },
+        {
+          "response_id": "r-178",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-8"
+        },
+        {
+          "response_id": "r-179",
+          "version": "joint-1",
+          "coded_answer": "11",
+          "group": "arts",
+          "class_id": "c-8"
+        },
+        {
+          "response_id": "r-180",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-9"
+        },
+        {
+          "response_id": "r-181",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "arts",
+          "class_id": "c-9"
+        },
+        {
+          "response_id": "r-182",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-9"
+        },
+        {
+          "response_id": "r-183",
+          "version": "joint-1",
+          "coded_answer": "10",
+          "group": "arts",
+          "class_id": "c-9"
+        },
+        {
+          "response_id": "r-184",
+          "version": "joint-1",
+          "coded_answer": "01",
+          "group": "science",
+          "class_id": "c-9"
+        },
+        {
+          "response_id": "r-185",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "arts",
+          "class_id": "c-9"
+        },
+        {
+          "response_id": "r-186",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-9"
+        },
+        {
+          "response_id": "r-187",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "arts",
+          "class_id": "c-9"
+        },
+        {
+          "response_id": "r-188",
+          "version": "joint-1",
+          "coded_answer": "10",
+          "group": "science",
+          "class_id": "c-9"
+        },
+        {
+          "response_id": "r-189",
+          "version": "joint-1",
+          "coded_answer": "01",
+          "group": "arts",
+          "class_id": "c-9"
+        },
+        {
+          "response_id": "r-190",
+          "version": "joint-1",
+          "coded_answer": "11",
+          "group": "science",
+          "class_id": "c-9"
+        },
+        {
+          "response_id": "r-191",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "arts",
+          "class_id": "c-9"
+        },
+        {
+          "response_id": "r-192",
+          "version": "joint-1",
+          "coded_answer": "01",
+          "group": "science",
+          "class_id": "c-9"
+        },
+        {
+          "response_id": "r-193",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "arts",
+          "class_id": "c-9"
+        },
+        {
+          "response_id": "r-194",
+          "version": "joint-1",
+          "coded_answer": "01",
+          "group": "science",
+          "class_id": "c-9"
+        },
+        {
+          "response_id": "r-195",
+          "version": "joint-1",
+          "coded_answer": "01",
+          "group": "arts",
+          "class_id": "c-9"
+        },
+        {
+          "response_id": "r-196",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-9"
+        },
+        {
+          "response_id": "r-197",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "arts",
+          "class_id": "c-9"
+        },
+        {
+          "response_id": "r-198",
+          "version": "joint-1",
+          "coded_answer": "01",
+          "group": "science",
+          "class_id": "c-9"
+        },
+        {
+          "response_id": "r-199",
+          "version": "joint-1",
+          "coded_answer": "01",
+          "group": "arts",
+          "class_id": "c-9"
+        },
+        {
+          "response_id": "r-200",
+          "version": "joint-1",
+          "coded_answer": "01",
+          "group": "science",
+          "class_id": "c-10"
+        },
+        {
+          "response_id": "r-201",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "arts",
+          "class_id": "c-10"
+        },
+        {
+          "response_id": "r-202",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-10"
+        },
+        {
+          "response_id": "r-203",
+          "version": "joint-1",
+          "coded_answer": "10",
+          "group": "arts",
+          "class_id": "c-10"
+        },
+        {
+          "response_id": "r-204",
+          "version": "joint-1",
+          "coded_answer": "11",
+          "group": "science",
+          "class_id": "c-10"
+        },
+        {
+          "response_id": "r-205",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "arts",
+          "class_id": "c-10"
+        },
+        {
+          "response_id": "r-206",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-10"
+        },
+        {
+          "response_id": "r-207",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "arts",
+          "class_id": "c-10"
+        },
+        {
+          "response_id": "r-208",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-10"
+        },
+        {
+          "response_id": "r-209",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "arts",
+          "class_id": "c-10"
+        },
+        {
+          "response_id": "r-210",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-10"
+        },
+        {
+          "response_id": "r-211",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "arts",
+          "class_id": "c-10"
+        },
+        {
+          "response_id": "r-212",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-10"
+        },
+        {
+          "response_id": "r-213",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "arts",
+          "class_id": "c-10"
+        },
+        {
+          "response_id": "r-214",
+          "version": "joint-1",
+          "coded_answer": "01",
+          "group": "science",
+          "class_id": "c-10"
+        },
+        {
+          "response_id": "r-215",
+          "version": "joint-1",
+          "coded_answer": "11",
+          "group": "arts",
+          "class_id": "c-10"
+        },
+        {
+          "response_id": "r-216",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-10"
+        },
+        {
+          "response_id": "r-217",
+          "version": "joint-1",
+          "coded_answer": "01",
+          "group": "arts",
+          "class_id": "c-10"
+        },
+        {
+          "response_id": "r-218",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-10"
+        },
+        {
+          "response_id": "r-219",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "arts",
+          "class_id": "c-10"
+        },
+        {
+          "response_id": "r-220",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-11"
+        },
+        {
+          "response_id": "r-221",
+          "version": "joint-1",
+          "coded_answer": "10",
+          "group": "arts",
+          "class_id": "c-11"
+        },
+        {
+          "response_id": "r-222",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-11"
+        },
+        {
+          "response_id": "r-223",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "arts",
+          "class_id": "c-11"
+        },
+        {
+          "response_id": "r-224",
+          "version": "joint-1",
+          "coded_answer": "01",
+          "group": "science",
+          "class_id": "c-11"
+        },
+        {
+          "response_id": "r-225",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "arts",
+          "class_id": "c-11"
+        },
+        {
+          "response_id": "r-226",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-11"
+        },
+        {
+          "response_id": "r-227",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "arts",
+          "class_id": "c-11"
+        },
+        {
+          "response_id": "r-228",
+          "version": "joint-1",
+          "coded_answer": "11",
+          "group": "science",
+          "class_id": "c-11"
+        },
+        {
+          "response_id": "r-229",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "arts",
+          "class_id": "c-11"
+        },
+        {
+          "response_id": "r-230",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-11"
+        },
+        {
+          "response_id": "r-231",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "arts",
+          "class_id": "c-11"
+        },
+        {
+          "response_id": "r-232",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-11"
+        },
+        {
+          "response_id": "r-233",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "arts",
+          "class_id": "c-11"
+        },
+        {
+          "response_id": "r-234",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-11"
+        },
+        {
+          "response_id": "r-235",
+          "version": "joint-1",
+          "coded_answer": "01",
+          "group": "arts",
+          "class_id": "c-11"
+        },
+        {
+          "response_id": "r-236",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-11"
+        },
+        {
+          "response_id": "r-237",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "arts",
+          "class_id": "c-11"
+        },
+        {
+          "response_id": "r-238",
+          "version": "joint-1",
+          "coded_answer": "00",
+          "group": "science",
+          "class_id": "c-11"
+        },
+        {
+          "response_id": "r-239",
+          "version": "joint-1",
+          "coded_answer": "10",
+          "group": "arts",
+          "class_id": "c-11"
+        }
+      ],
+      "versions": [
+        {
+          "id": "rr-1",
+          "kind": "rr",
+          "target": "overload",
+          "mechanism": {
+            "force_yes": 0,
+            "force_no": 0,
+            "truth": 1
+          }
+        },
+        {
+          "id": "list-1",
+          "kind": "list",
+          "k": 3,
+          "target": "overload"
+        },
+        {
+          "id": "joint-1",
+          "kind": "rr_joint",
+          "latent_states": [
+            "00",
+            "01",
+            "10",
+            "11"
+          ],
+          "response_states": [
+            "00",
+            "01",
+            "10",
+            "11"
+          ],
+          "transition": [
+            [
+              0.7,
+              0.1,
+              0.1,
+              0.1
+            ],
+            [
+              0.1,
+              0.7,
+              0.1,
+              0.1
+            ],
+            [
+              0.1,
+              0.1,
+              0.7,
+              0.1
+            ],
+            [
+              0.1,
+              0.1,
+              0.1,
+              0.7
+            ]
+          ]
+        }
+      ],
+      "allocation": {
+        "rr-1": {
+          "unit": "student",
+          "version_probability": 0.3333333333333333
+        },
+        "list-1": {
+          "unit": "student",
+          "added_probability": 0.5
+        },
+        "joint-1": {
+          "unit": "student",
+          "version_probability": 0.3333333333333333
+        }
+      },
+      "sensitive_items": [
+        "overload",
+        "missed_support"
+      ],
+      "invited_counts": {
+        "rr-1": 100,
+        "list-1": 100,
+        "joint-1": 100
+      }
+    },
+    "check": "纯真实机制退化为普通比例，但不是要求与原敏感真值相等"
+  },
+  {
+    "name": "no_truth",
+    "study": {
+      "responses": [
+        {
+          "response_id": "r-0",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-1",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-2",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-3",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-4",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-5",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-6",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-7",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-8",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-9",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-10",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-11",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-12",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-13",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-14",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-15",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-16",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-17",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-18",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-19",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-20",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-21",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-22",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-23",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-24",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-25",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-26",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-27",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-28",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-29",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-30",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-31",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-32",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-33",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-34",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-35",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-36",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-37",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-38",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-39",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-40",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-41",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-42",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-43",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-44",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-45",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-46",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-47",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-48",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-49",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-50",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-51",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-52",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-53",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-54",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-55",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-56",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-57",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-58",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-59",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-60",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-61",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-62",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-63",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-64",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-65",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-66",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-67",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-68",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-69",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-70",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-71",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-72",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-73",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-74",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-75",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-76",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-77",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-78",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-79",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        }
+      ],
+      "versions": [
+        {
+          "id": "rr-1",
+          "kind": "rr",
+          "target": "overload",
+          "mechanism": {
+            "force_yes": 0.5,
+            "force_no": 0.5,
+            "truth": 0
+          }
+        }
+      ],
+      "allocation": {
+        "rr-1": {
+          "unit": "student",
+          "version_probability": 0.3333333333333333
+        }
+      },
+      "sensitive_items": [
+        "overload",
+        "missed_support"
+      ],
+      "invited_counts": {
+        "rr-1": 100,
+        "list-1": 100,
+        "joint-1": 100
+      }
+    },
+    "check": "机制不包含真实信息，敏感比例不可识别"
+  },
+  {
+    "name": "marginals_without_joint",
+    "study": {
+      "responses": [
+        {
+          "response_id": "r-0",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-1",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-2",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-3",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-4",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-5",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-6",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-7",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-8",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-9",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-10",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-11",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-12",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-13",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-14",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-15",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-16",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-17",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-18",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-19",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "r-20",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-21",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-22",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-23",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-24",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-25",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-26",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-27",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-28",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-29",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-30",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-31",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-32",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-33",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-34",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-35",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-36",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-37",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-38",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-39",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "r-40",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-41",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-42",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-43",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-44",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-45",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-46",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-47",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-48",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-49",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-50",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-51",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-52",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-53",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-54",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-55",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-56",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-57",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-58",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-59",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "r-60",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-61",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-62",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-63",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-64",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-65",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-66",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-67",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-68",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-69",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-70",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-71",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-72",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-73",
+          "version": "rr-1",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-74",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-75",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-76",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-77",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-78",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-79",
+          "version": "rr-1",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "r-80",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 0,
+          "group": "science",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-81",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 0,
+          "group": "arts",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-82",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-83",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 0,
+          "group": "arts",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-84",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 0,
+          "group": "science",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-85",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-86",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 0,
+          "group": "science",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-87",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 2,
+          "group": "arts",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-88",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 2,
+          "group": "science",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-89",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 0,
+          "group": "arts",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-90",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-91",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 0,
+          "group": "arts",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-92",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-93",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-94",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 2,
+          "group": "science",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-95",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 2,
+          "group": "arts",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-96",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 2,
+          "group": "science",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-97",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 2,
+          "group": "arts",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-98",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 0,
+          "group": "science",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-99",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 0,
+          "group": "arts",
+          "class_id": "c-4"
+        },
+        {
+          "response_id": "r-100",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-101",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-102",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-103",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-104",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 2,
+          "group": "science",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-105",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 3,
+          "group": "arts",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-106",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-107",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-108",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-109",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-110",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-111",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-112",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 2,
+          "group": "science",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-113",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 3,
+          "group": "arts",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-114",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-115",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-116",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 2,
+          "group": "science",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-117",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-118",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-119",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 2,
+          "group": "arts",
+          "class_id": "c-5"
+        },
+        {
+          "response_id": "r-120",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-121",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 2,
+          "group": "arts",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-122",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 0,
+          "group": "science",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-123",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 0,
+          "group": "arts",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-124",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-125",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 2,
+          "group": "arts",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-126",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-127",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 3,
+          "group": "arts",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-128",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-129",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 2,
+          "group": "arts",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-130",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-131",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-132",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-133",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 3,
+          "group": "arts",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-134",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 0,
+          "group": "science",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-135",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 3,
+          "group": "arts",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-136",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-137",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 2,
+          "group": "arts",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-138",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-139",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-6"
+        },
+        {
+          "response_id": "r-140",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 2,
+          "group": "science",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-141",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-142",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 3,
+          "group": "science",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-143",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 2,
+          "group": "arts",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-144",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 2,
+          "group": "science",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-145",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-146",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 2,
+          "group": "science",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-147",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-148",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-149",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 2,
+          "group": "arts",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-150",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 2,
+          "group": "science",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-151",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-152",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-153",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 2,
+          "group": "arts",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-154",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-155",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 2,
+          "group": "arts",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-156",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-157",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-158",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "science",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "r-159",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "arts",
+          "class_id": "c-7"
+        },
+        {
+          "response_id": "second-r-0",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "second-r-1",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "second-r-2",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "second-r-3",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "second-r-4",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "second-r-5",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "second-r-6",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "second-r-7",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "second-r-8",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "second-r-9",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "second-r-10",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "second-r-11",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "second-r-12",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "second-r-13",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "second-r-14",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "second-r-15",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "second-r-16",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "second-r-17",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "second-r-18",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "second-r-19",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-0"
+        },
+        {
+          "response_id": "second-r-20",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "second-r-21",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "second-r-22",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "second-r-23",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "second-r-24",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "second-r-25",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "second-r-26",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "second-r-27",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "second-r-28",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "second-r-29",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "second-r-30",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "second-r-31",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "second-r-32",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "second-r-33",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "second-r-34",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "second-r-35",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "second-r-36",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "second-r-37",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "second-r-38",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "second-r-39",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-1"
+        },
+        {
+          "response_id": "second-r-40",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "second-r-41",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "second-r-42",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "second-r-43",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "second-r-44",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "second-r-45",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "second-r-46",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "second-r-47",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "second-r-48",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "second-r-49",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "second-r-50",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "second-r-51",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "second-r-52",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "second-r-53",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "second-r-54",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "second-r-55",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "second-r-56",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "second-r-57",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "second-r-58",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "second-r-59",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-2"
+        },
+        {
+          "response_id": "second-r-60",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "second-r-61",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "second-r-62",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "second-r-63",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "second-r-64",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "second-r-65",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "second-r-66",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "second-r-67",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "second-r-68",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "second-r-69",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "second-r-70",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "second-r-71",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "second-r-72",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "second-r-73",
+          "version": "rr-second",
+          "answer": 1,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "second-r-74",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "second-r-75",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "second-r-76",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "second-r-77",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "second-r-78",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "science",
+          "class_id": "c-3"
+        },
+        {
+          "response_id": "second-r-79",
+          "version": "rr-second",
+          "answer": 0,
+          "group": "arts",
+          "class_id": "c-3"
+        }
+      ],
+      "versions": [
+        {
+          "id": "rr-1",
+          "kind": "rr",
+          "target": "overload",
+          "mechanism": {
+            "force_yes": 0.2,
+            "force_no": 0.2,
+            "truth": 0.6
+          }
+        },
+        {
+          "id": "list-1",
+          "kind": "list",
+          "k": 3,
+          "target": "overload"
+        },
+        {
+          "id": "rr-second",
+          "kind": "rr",
+          "target": "missed_support",
+          "mechanism": {
+            "force_yes": 0.2,
+            "force_no": 0.2,
+            "truth": 0.6
+          }
+        }
+      ],
+      "allocation": {
+        "rr-1": {
+          "unit": "student",
+          "version_probability": 0.3333333333333333
+        },
+        "list-1": {
+          "unit": "student",
+          "added_probability": 0.5
+        },
+        "rr-second": {
+          "unit": "student",
+          "version_probability": 0.3333333333333333
+        }
+      },
+      "sensitive_items": [
+        "overload",
+        "missed_support"
+      ],
+      "invited_counts": {
+        "rr-1": 100,
+        "list-1": 100,
+        "joint-1": 100
+      }
+    },
+    "check": "两种单项边际机制不能凭独立性默认值得到唯一共同经历比例"
+  },
+  {
+    "name": "list_manual",
+    "study": {
+      "responses": [
+        {
+          "response_id": "0",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 0,
+          "group": "all",
+          "class_id": "c"
+        },
+        {
+          "response_id": "1",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "all",
+          "class_id": "c"
+        },
+        {
+          "response_id": "2",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 2,
+          "group": "all",
+          "class_id": "c"
+        },
+        {
+          "response_id": "3",
+          "version": "list-1",
+          "added_sensitive": false,
+          "count": 1,
+          "group": "all",
+          "class_id": "c"
+        },
+        {
+          "response_id": "4",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "all",
+          "class_id": "c"
+        },
+        {
+          "response_id": "5",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 2,
+          "group": "all",
+          "class_id": "c"
+        },
+        {
+          "response_id": "6",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 2,
+          "group": "all",
+          "class_id": "c"
+        },
+        {
+          "response_id": "7",
+          "version": "list-1",
+          "added_sensitive": true,
+          "count": 1,
+          "group": "all",
+          "class_id": "c"
+        }
+      ],
+      "versions": [
+        {
+          "id": "rr-1",
+          "kind": "rr",
+          "target": "overload",
+          "mechanism": {
+            "force_yes": 0.2,
+            "force_no": 0.2,
+            "truth": 0.6
+          }
+        },
+        {
+          "id": "list-1",
+          "kind": "list",
+          "k": 3,
+          "target": "overload"
+        },
+        {
+          "id": "joint-1",
+          "kind": "rr_joint",
+          "latent_states": [
+            "00",
+            "01",
+            "10",
+            "11"
+          ],
+          "response_states": [
+            "00",
+            "01",
+            "10",
+            "11"
+          ],
+          "transition": [
+            [
+              0.7,
+              0.1,
+              0.1,
+              0.1
+            ],
+            [
+              0.1,
+              0.7,
+              0.1,
+              0.1
+            ],
+            [
+              0.1,
+              0.1,
+              0.7,
+              0.1
+            ],
+            [
+              0.1,
+              0.1,
+              0.1,
+              0.7
+            ]
+          ]
+        }
+      ],
+      "allocation": {
+        "rr-1": {
+          "unit": "student",
+          "version_probability": 0.3333333333333333
+        },
+        "list-1": {
+          "unit": "student",
+          "added_probability": 0.5
+        },
+        "joint-1": {
+          "unit": "student",
+          "version_probability": 0.3333333333333333
+        }
+      },
+      "sensitive_items": [
+        "overload",
+        "missed_support"
+      ],
+      "invited_counts": {
+        "rr-1": 100,
+        "list-1": 100,
+        "joint-1": 100
+      }
+    },
+    "check": "实验臂均值1.5、对照臂均值1，均值差.5；不预设其他检验"
+  }
+]
