@@ -14,10 +14,17 @@ def versions(data):
         elif row['kind'] == 'rr_joint':
             if len(row['transition']) != len(row['latent_states']):
                 raise ValueError('联合机制状态数不匹配')
+            if len(set(row['latent_states'])) != len(row['latent_states']):
+                raise ValueError('联合机制潜在状态重复')
+            if len(set(row['response_states'])) != len(row['response_states']):
+                raise ValueError('联合机制响应状态重复')
             for probabilities in row['transition']:
                 if len(probabilities) != len(row['response_states']) or any(value < 0 for value in probabilities) or abs(sum(probabilities) - 1) > 1e-9:
                     raise ValueError('联合机制概率不合法')
-        elif row['kind'] != 'list':
+        elif row['kind'] == 'list':
+            if not isinstance(row.get('k'), int) or isinstance(row.get('k'), bool) or row['k'] < 1:
+                raise ValueError('名单基础条目数不合法')
+        else:
             raise ValueError('未知间接问法')
     return result
 

@@ -1,10 +1,67 @@
 <!doctype html>
 <html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>多种间接问卷机制下敏感经历联合比例的可识别分析</title><link rel="stylesheet" href="/style.css"><script defer src="/app.js"></script></head>
-<body><header><h1>多种间接问卷机制下敏感经历联合比例的可识别分析</h1><p>问卷版本检查、随机机制合法性和名单计数分布</p></header><main>
+<body><header><h1>多种间接问卷机制下敏感经历联合比例的可识别分析</h1><p>按登记机制推断边际比例、共同经历比例与群体差异，并显示可合并范围与设计限制</p></header><main>
 <section><h2>当前资料概况</h2><pre id="summary">载入中</pre></section>
+
+<section><h2>现有问卷能回答哪些问题</h2>
+<p class="hint">下表逐项给出每个查询在现行问卷设计下的可识别状态。点估计不是默认结果；范围、版本冲突和边界情况都与点估计并列显示。</p>
+<div id="capabilities">载入中</div>
+<div id="diagnostics"></div>
+<div id="recommendations"></div>
+</section>
+
+<div class="columns">
+<section><h2>提出问题</h2>
+<form id="query-form">
+<label>查询类型<select id="query-type" name="type">
+<option value="marginal">单项经历比例</option>
+<option value="joint">共同经历比例</option>
+<option value="group_difference">群体差异</option>
+</select></label>
+<label id="item-field">经历项目<select id="query-item" name="item"></select></label>
+<label id="items-field">经历项目（可多选）<select id="query-items" name="items" multiple></select></label>
+<label id="estimand-field">差异对象<select id="query-estimand" name="estimand">
+<option value="marginal">单项经历比例</option>
+<option value="joint">共同经历比例</option>
+</select></label>
+<label id="group-field">对比群体<select id="query-group-a" name="group_a"></select>
+<select id="query-group-b" name="group_b"></select></label>
+<label>只分析该群体<select id="query-group" name="group"><option value="">全部</option></select></label>
+<fieldset><legend>假设与敏感性设置</legend>
+<label>机制失真半径<input id="assumption-error" type="number" min="0" max="1" step="0.01" value="0"></label>
+<label>未响应处理<select id="assumption-nonresponse">
+<option value="ignore">仅按观测回答</option>
+<option value="bound">按最不利情形给出范围</option>
+</select></label>
+<label>版本合并<select id="assumption-pooling">
+<option value="auto">自动（先检验异质性）</option>
+<option value="pool">强制合并</option>
+<option value="none">不合并，按版本报告</option>
+</select></label>
+<label>区间聚类层级<select id="assumption-clustering">
+<option value="register">按登记分配层级</option>
+<option value="class">按班级聚类</option>
+</select></label>
+<label>名单顶底效应<select id="assumption-ceiling">
+<option value="ignore">不额外放宽</option>
+<option value="bound">按一个条目移动计入范围</option>
+</select></label>
+<label class="checkbox"><input id="assumption-independence" type="checkbox"> 对缺失的联合信息启用独立性假设</label>
+</fieldset>
+<button type="submit">运行分析</button>
+</form>
+<pre id="result">选择查询后运行分析</pre>
+</section>
+
+<section><h2>假设比较</h2>
+<p class="hint">同一问题在不同假设下的可识别状态、区间与范围。用来判断哪些结论依赖假设，以及是否需要补充问卷设计。</p>
+<button id="sensitivity-button" type="button">比较当前问题的假设影响</button>
+<pre id="sensitivity">尚未运行</pre>
+</section>
+</div>
+
 <section><h2>业务记录</h2><label>记录集合<select id="source"></select></label><span id="record-count"></span><div id="records"></div></section>
-<div class="columns"><section><h2>查看回答计数分布</h2><form id="action-form"></form><pre id="result">选择记录后操作</pre>
-<aside>当前页面保留原始描述与业务记录，具体统计含义见分析约定。</aside></section>
-<section><h2>工作批注</h2><form id="note-form"><textarea id="note" required maxlength="2000" aria-label="批注内容"></textarea><button>保存批注</button></form><ul id="notes"></ul></section></div>
+
+<section><h2>工作批注</h2><form id="note-form"><textarea id="note" required maxlength="2000" aria-label="批注内容"></textarea><button>保存批注</button></form><ul id="notes"></ul></section>
 </main></body></html>
